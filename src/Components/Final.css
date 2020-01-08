@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Roboto-Regular"; /*a name to be used later*/
+    src: url("../assets/Roboto-Regular.ttf"); /*URL to font*/
+  }
+  
+  @font-face {
+    font-family: "Roboto-Bold"; /*a name to be used later*/
+    src: url("../assets/Roboto-Bold.ttf"); /*URL to font*/
+  }
+  
+  .Final {
+    padding: 4.5rem 1rem 1rem 3rem;
+    font-family: Roboto-Regular;
+  }
+
+  .Final-h1 {
+    font-size: 4.5rem;
+    color: #8473ff;
+    margin-bottom: 1rem;
+  }
+
+.Final-bigger{
+    font-size: 6rem;
+}
+
+
+  .Final-text {
+    padding-right: 40vw;
+  }
+  
+  .Final-img {
+    position: absolute;
+    bottom: 4rem;
+    right: 2rem;
+  }
+  
+  .Final-label{
+    font-size: 2.5rem;
+    align-self: center;
+    padding-left: 1rem;
+  }
+  .Final-bold{
+      font-size: 3.2rem;
+      font-weight: 900;
+  }
+  

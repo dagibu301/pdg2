@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Roboto-Regular"; /*a name to be used later*/
+    src: url("../assets/Roboto-Regular.ttf"); /*URL to font*/
+  }
+  
+  @font-face {
+    font-family: "Roboto-Bold"; /*a name to be used later*/
+    src: url("../assets/Roboto-Bold.ttf"); /*URL to font*/
+  }
+  
+  .P31 {
+    padding: 2rem 1rem 1rem 3rem;
+    font-family: Roboto-Regular;
+  }
+  
+  .P31-step{
+    width: 80vw;
+  }
+  .P31-h1 {
+    font-size: 2.5rem;
+    color: #8473ff;
+    margin-bottom: 1rem;
+  }
+
+.P31-bigger{
+    font-size: 4.5rem;
+}
+
+
+  .P31-text {
+    padding-right: 0vw;
+  }
+  
+  .P31-img {
+    position: absolute;
+    bottom: 4rem;
+    right: 2rem;
+  }
+  
+  .P31-questions-container{
+    margin: 2rem 35vw 0px 2.5rem;
+  }
+  .P31-question{
+    display: flex;
+    margin-top: .5rem;
+    padding: 0.5rem;
+  }
+  .P31-question-hover{
+    display: flex;
+    margin-top: .5rem;
+    border: solid 0.2rem #8473ff;
+    padding: 0.5rem;
+  }
+  .P31-label{
+    font-size: 2.5rem;
+    align-self: center;
+    padding-left: 1rem;
+  }
+  

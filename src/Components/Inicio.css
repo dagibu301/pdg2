@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Roboto-Regular'; /*a name to be used later*/
+    src: url('../assets/Roboto-Regular.ttf'); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'Roboto-Bold'; /*a name to be used later*/
+    src: url('../assets/Roboto-Bold.ttf'); /*URL to font*/
+}
+
+.Inicio{
+    padding: 5rem 1rem 1rem 3rem;
+    background-color: #8473FF;
+    color: white;
+    height: 100vh;
+}
+
+.Inicio p{
+    font-size: 4rem;
+    font-family: Roboto-Bold;
+    margin: 0px 0px 1rem 0px;
+}
+
+.Inicio-img{
+    position: absolute;
+    bottom: 4rem;
+    right: 2rem;
+}
